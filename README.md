@@ -2,6 +2,7 @@
 **Shopping Cart**
 
 >Description:
+  
   Create a single page application showcasing your new online store utilizing React/Redux or vanilla JS.
 
 >Requirements:
